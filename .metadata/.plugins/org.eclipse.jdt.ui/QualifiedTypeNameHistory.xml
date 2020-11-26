@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="javax.lang.model.util.Elements"/>
+<fullyQualifiedTypeName name="java.util.Set"/>
+<fullyQualifiedTypeName name="java.util.HashSet"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.PageLoadStrategy"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.support.ui.WebDriverWait"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.JavascriptExecutor"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.support.ui.ExpectedConditions"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.Keys"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+</qualifiedTypeNameHistroy>
